@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FF5470&center=verdadeiro&vCenter=verdadeiro&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Rafaela+Mendes;Ol%C3%A1%2C+eu+sou+uma+Desenvolvedora;Ol%C3%A1%2C+eu+sou+uma+Web+Designer;Ol%C3%A1%2C+eu+sou+uma+Designer+Gr%C3%A1fica" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=FF5470&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Rafaela+Mendes;Ol%C3%A1%2C+eu+sou+uma+Desenvolvedora;Ol%C3%A1%2C+eu+sou+uma+Web+Designer;Ol%C3%A1%2C+eu+sou+uma+Designer+Gr%C3%A1fica" alt="Typing SVG" />
+
+
 ### Hello, Devs!!
 
 
