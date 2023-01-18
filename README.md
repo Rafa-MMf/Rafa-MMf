@@ -7,7 +7,8 @@
 
 <div dsplay="inline-block">
  
- <h1 align="left" style="display: flex; align-items: center;">
+ <h1 align="left" >
+           <div style="display: flex; align-items: center;">
   Rafaela Mendes
           
   <a href="#">
@@ -16,6 +17,7 @@
   <a href="#">
     <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" alt="instagram" style="vertical-align: top; margin-left: 10px;">
   </a>
+           </div>
  </h1>
  
  ### 🖥️ Tecnologias e Ferramentas: 
