@@ -1,12 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">         
-          
 <img align="right" width="400px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/81865736/213192002-d2d4f6e2-406d-4a63-b215-cafdd154c5c6.png">
 
 </br>
 </br>
 
 <div dsplay="inline-block">
- 
  <h1 align="left" >
      <div style="display: flex !important; align-items: center;">
             Rafaela Mendes
@@ -20,29 +17,64 @@
  </h1>
  
  ### 🖥️ Tecnologias e Ferramentas: 
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Bootstrap-05054B?style=for-the-badge&logo=Bootstrap&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" target="_blank">
+
+</div>
  
 </div>
 
-<div>
-<a href="https://github.com/Rafa-MMf">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-MMf&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-MMf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img src="https://github.com/Rafa-MMf/Rafa-MMf/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+##
+<br>
+
+<div align="center">
+<table border="0" align="center" width="auto" >
+<tr border="0" >
+<td width="50%" align="center" style="padding: 15px 15px;">
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafa-MMf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt_BR"/>
+  <br></br>
+  <img alt="Estatísticas de sequência" src="https://github-readme-streak-stats.herokuapp.com?user=Rafa-MMf&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+
+
+  
+</td>
+
+<td width="50%" align="center" style="padding: 15px 15px;">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rafa-MMf&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<br>
+
+##
+<br>
+
 </div>
 
 <div>
           
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Snake animation](https://github.com/Rafa-MMf/Rafa-MMf/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
+
 
 
                 
