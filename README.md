@@ -49,7 +49,7 @@
 <div align="center">
 <table border="0" align="center" width="auto" >
 <tr border="0" >
-<td width="50%" align="center" style="padding: 15px 15px;">
+<td width="60%" align="center" style="padding: 15px 15px;">
   
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafa-MMf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt_BR"/>
   <br></br>
@@ -59,7 +59,7 @@
   
 </td>
 
-<td width="50%" align="center" style="padding: 15px 15px;">
+<td width="40%" align="center" style="padding: 15px 15px;">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rafa-MMf&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
@@ -80,9 +80,3 @@
 
 
 </div>
-
-
-
-
-
-                
