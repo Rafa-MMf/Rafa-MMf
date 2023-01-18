@@ -8,16 +8,15 @@
 <div dsplay="inline-block">
  
  <h1 align="left" >
-           <div style="display: flex; align-items: center;">
-  Rafaela Mendes
-          
-  <a href="#">
-    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px;">
-  </a>
-  <a href="#">
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" alt="instagram" style="vertical-align: top; margin-left: 10px;">
-  </a>
-           </div>
+     <div style="display: flex !important; align-items: center;">
+            Rafaela Mendes
+      <a href="#">
+        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px;">
+       </a>
+        <a href="#">
+         <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" alt="instagram" style="vertical-align: top; margin-left: 10px;">
+        </a>
+    </div>
  </h1>
  
  ### 🖥️ Tecnologias e Ferramentas: 
