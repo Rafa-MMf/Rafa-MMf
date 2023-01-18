@@ -10,6 +10,9 @@
       <a href="#">
         <img width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px; cursor: pointer; margin-top: 5px;">
        </a>
+      <a href="#">
+       <img width="33px" src="https://user-images.githubusercontent.com/81865736/213268210-0bb7d9f9-70d3-4477-a82b-7d771efdbade.svg" alt="e-mail" style="vertical-align: top; margin-left: 10px; cursor: pointer; margin-top: 10px;">
+      </a>
         <a href="#">
          <img width="80px" src="https://user-images.githubusercontent.com/81865736/213206488-53d3a24f-e61e-4187-9048-dddf3ac3ea17.svg" alt="instagram" style="vertical-align: top; margin-left: 10px; margin-top: 16px; cursor: pointer; ">
         </a>
