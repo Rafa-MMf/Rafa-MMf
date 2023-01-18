@@ -1,4 +1,4 @@
-          
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">         
           
 <img align="right" width="400px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/81865736/213192002-d2d4f6e2-406d-4a63-b215-cafdd154c5c6.png">
 
@@ -7,14 +7,14 @@
 
 <div dsplay="inline-block">
  
- <h1 align="left" dsplay="flex">
+ <h1 align="left" style="display: flex; align-items: center;">
   Rafaela Mendes
           
   <a href="#">
-    <img width="35px" src="https://user-images.githubusercontent.com/81865736/213196094-1d45a459-a330-4257-be48-edadce9436bf.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px; background-color: #fff; border-radius: 5px; padding: 5px;">
+    <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px;">
   </a>
   <a href="#">
-    <img width="35px" src="https://user-images.githubusercontent.com/81865736/213195255-1ef15a29-afc0-42df-a64f-fc186690fa10.svg" alt="instagram" style="vertical-align: top; margin-left: 10px; background-color: #fff; border-radius: 5px; padding: 5px;">
+    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" alt="instagram" style="vertical-align: top; margin-left: 10px;">
   </a>
  </h1>
  
