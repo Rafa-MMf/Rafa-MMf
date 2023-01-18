@@ -11,10 +11,10 @@
      <div style="display: flex !important; align-items: center;">
             Rafaela Mendes
       <a href="#">
-        <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px;">
+        <img width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px; cursor: pointer; margin-top: 5px;">
        </a>
         <a href="#">
-         <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original-wordmark.svg" alt="instagram" style="vertical-align: top; margin-left: 10px;">
+         <img width="80px" src="https://user-images.githubusercontent.com/81865736/213206488-53d3a24f-e61e-4187-9048-dddf3ac3ea17.svg" alt="instagram" style="vertical-align: top; margin-left: 10px; margin-top: 16px; cursor: pointer; ">
         </a>
     </div>
  </h1>
