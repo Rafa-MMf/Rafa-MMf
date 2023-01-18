@@ -30,12 +30,15 @@
  
 </div>
 
-
+<div>
+<a href="https://github.com/Rafa-MMf">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-MMf&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-MMf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div>
-
+          
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 
 ![Snake animation](https://github.com/Rafa-MMf/Rafa-MMf/blob/output/github-contribution-grid-snake.svg)
 
