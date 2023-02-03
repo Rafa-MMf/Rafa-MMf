@@ -4,20 +4,7 @@
 </br>
 
 <div dsplay="inline-block">
- <h1 align="left" >
-     <div style="display: flex !important; align-items: center;">
-            Rafaela Mendes
-      <a href="#">
-        <img width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px; cursor: pointer; margin-top: 5px;">
-       </a>
-      <a href="#">
-       <img width="33px" src="https://user-images.githubusercontent.com/81865736/213268210-0bb7d9f9-70d3-4477-a82b-7d771efdbade.svg" alt="e-mail" style="vertical-align: top; margin-left: 10px; cursor: pointer; margin-top: 10px;">
-      </a>
-        <a href="#">
-         <img width="80px" src="https://user-images.githubusercontent.com/81865736/213206488-53d3a24f-e61e-4187-9048-dddf3ac3ea17.svg" alt="instagram" style="vertical-align: top; margin-left: 10px; margin-top: 16px; cursor: pointer; ">
-        </a>
-    </div>
- </h1>
+ <h2>Hello Devs, bem-vindos(as) ao meu perfil 😄</h2> 
  <h3 align="center" >
    Tecnologias e Ferramentas: 
   </h3>
@@ -36,7 +23,23 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" target="_blank">
 </p>
- 
+ <hr>
+ <h1 align="left" >
+     <div style="display: flex !important; align-items: center;">
+            Rafaela Mendes
+      <a href="#">
+        <img width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" style="vertical-align: top; margin-left: 20px; cursor: pointer; margin-top: 5px;">
+       </a>
+      <a href="#">
+       <img width="33px" src="https://user-images.githubusercontent.com/81865736/213268210-0bb7d9f9-70d3-4477-a82b-7d771efdbade.svg" alt="e-mail" style="vertical-align: top; margin-left: 10px; cursor: pointer; margin-top: 10px;">
+      </a>
+        <a href="#">
+         <img width="80px" src="https://user-images.githubusercontent.com/81865736/213206488-53d3a24f-e61e-4187-9048-dddf3ac3ea17.svg" alt="instagram" style="vertical-align: top; margin-left: 10px; margin-top: 16px; cursor: pointer; ">
+        </a> 
+    </div>
+ </h1>
+  <p>Tenho 19 anos, estudante da Faculdade Cotemig e fazendo cursos no Alura. Atualmente trabalho em uma empresa de e-commerce, chamada Wave, como Desenvolvedora Web Design.<br><br>Eu realmente gosto de estilizar as páginas web, os famosos layouts, transformando-os de "sem graça" para "com vida" e fáceis de usar. Sempre busco aprender coisas novas, quanto mais melhor.</p>
+ <hr>
 </div>
 
 <p align="center">
