@@ -4,7 +4,7 @@
 </br>
 
 <div dsplay="inline-block">
- <h2>Hello Devs, bem-vindos(as) ao meu perfil 😄</h2> 
+ <h2>Hello Devs, bem-vindos ao meu perfil 😄</h2> 
  <h3 align="center" >
    Tecnologias e Ferramentas: 
   </h3>
