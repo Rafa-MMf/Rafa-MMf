@@ -38,7 +38,7 @@
         </a> 
     </div>
  </h1>
-  <p>Tenho 19 anos, estudante da Faculdade Cotemig e fazendo cursos no Alura. Atualmente trabalho em uma empresa de e-commerce, chamada Wave, como Desenvolvedora Web Design.<br><br>Eu realmente gosto de estilizar as páginas web, os famosos layouts, transformando-os de "sem graça" para "com vida" e fáceis de usar. Sempre busco aprender coisas novas, quanto mais melhor.</p>
+  <p>Tenho 19 anos, estudante da Faculdade Cotemig e fazendo cursos no Alura. Eu realmente gosto de estilizar as páginas web, os famosos layouts, transformando-os de "sem graça" para "com vida" e fáceis de usar. Sempre busco aprender coisas novas, quanto mais melhor.</p>
  <hr>
 </div>
 
